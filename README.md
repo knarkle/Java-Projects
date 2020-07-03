@@ -1,7 +1,7 @@
 # Projects to learn Java
 
-[Build an Interpreter](http://www.craftinginterpreters.com/introduction.html) __
-[Build an Interpreter - source code](http://www.craftinginterpreters.com/introduction.html) __
+[Build an Interpreter](http://www.craftinginterpreters.com/introduction.html) \
+[Build an Interpreter - source code](http://www.craftinginterpreters.com/introduction.html) \
 
 
 [Build an Interpreter](insert link to Interpreter here)
